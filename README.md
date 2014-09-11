@@ -37,4 +37,9 @@ This course will be presented with live demonstrations, this Gitbook provided, a
 ### Credits
 
 Lead Author: Dale Sande
+
 Contributors: Code Fellows Staff and Students
+
+## Contribute
+
+Send us a Pull Request here: https://github.com/codefellows/git-for-everyone

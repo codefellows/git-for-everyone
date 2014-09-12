@@ -1,6 +1,6 @@
 # Git for everyone
 
-Unless you have been living in a cave, Git is everywhere. Creative or engineering, you have directly encountered or will encounter Git in the workplace. A common misconception as well is that Git is only for teams? Regardless of work style or team size, Git is the tool that everyone should be using.
+Unless you have been living in a cave, Git is everywhere. Creative or engineering, you have directly encountered or will encounter Git in the workplace. A common misconception as well is that Git is only for teams. Regardless of work style or team size, Git is the tool that everyone should be using.
 
 Code Fellows instructors will introduce you to Git and get you up to speed on concepts and workflows in this workshop.
 

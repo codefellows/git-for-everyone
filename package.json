@@ -1,7 +1,7 @@
 {
-  "name": "Full-Stack-JavaScript-Engineering",
+  "name": "Git for Everyone",
   "version": "1.0.0",
-  "description": "Textbook for Code Fellows JavaScript Development Accelerator",
+  "description": "Textbook for Code Fellows Git Workshop",
   "main": "server.js",
   "dependencies": {
     "express": "^4.1.1",
@@ -19,16 +19,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ivanoats/Full-Stack-JavaScript-Engineering.git"
+    "url": "https://github.com/codefellows/git-for-everyone.git"
   },
   "keywords": [
     "javascript",
     "gitbook"
   ],
-  "author": "Ivan Storck and Tyler Morgan",
+  "author": "Dale Sande",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ivanoats/Full-Stack-JavaScript-Engineering/issues"
+    "url": "https://github.com/codefellows/git-for-everyone/issues"
   },
-  "homepage": "https://github.com/ivanoats/Full-Stack-JavaScript-Engineering"
+  "homepage": "https://github.com/codefellows/git-for-everyoneg"
 }
